@@ -1,0 +1,6 @@
+ma\ws\jaxrs\Application.class
+ma\ws\jaxrs\controllers\CompteRestJaxRSAPI.class
+ma\ws\jaxrs\entities\TypeCompte.class
+MyConfig.class
+ma\ws\jaxrs\entities\Compte.class
+ma\ws\jaxrs\repositories\CompteRepository.class
